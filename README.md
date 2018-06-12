@@ -1,2 +1,2 @@
 # pandac
-funny maths
+Crazy maths and more
